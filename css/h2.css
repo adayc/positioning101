@@ -1,0 +1,12 @@
+/* El box 2 quien tiene su posición establecido en absolute; 
+y como referencia a  body; ya que es su único contenedor.
+  */
+
+
+#box_1 { 
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+#box_2 { 
+    position: absolute;

@@ -1,0 +1,19 @@
+/* Colocamos dos columnas a todo lo ancho de la página. 
+box_a tiene un valor de 20%, pero referente a su contenedor de body. 
+En este caso sería 20% de body. Así también  box_b, es desplazado un 80% a la derecha de su contenedor.
+*/
+#box_1 { 
+    position: absolute; 
+    top: 0; 
+    right: 20%; 
+    bottom: 0; 
+    left: 0; 
+    background: #ee3e64; } 
+    
+#box_2 { 
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    bottom: 0; 
+    left: 80%; 
+    background: #b7d84b; }

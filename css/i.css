@@ -1,0 +1,16 @@
+/* Al colocar el valor  fixed  el elemento queda fijado en la
+ estructura, en este caso en el footer.*/
+
+p {
+    text-align: justify;
+    
+    
+}
+
+
+#box_2 { 
+	position: fixed; 
+	bottom: 0; 
+	left: 0; 
+	right: 0; 
+background-color: green;}

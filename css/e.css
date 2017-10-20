@@ -1,0 +1,6 @@
+/*En este caso tenemos a 4 bloques posicionados de forma absoluta situadas en cada esquina con sus propiedades top left right y bttom*/
+
+#box_1 { position: absolute; top: 0; left: 0; width: 200px; height: 200px; background: #ee3e64; } 
+#box_2 { position: absolute; top: 0; right: 0; width: 200px; height: 200px; background: #44accf; } 
+#box_3 { position: absolute; bottom: 0; left: 0; width: 200px; height: 200px; background: #b7d84b; } 
+#box_4 { position: absolute; bottom: 0; right: 0; width: 200px; height: 200px; background: #ebde52; }
